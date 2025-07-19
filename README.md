@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi Im Ibrahim Lubbad || Android Developer 👋
 
-<!--
+![developer](https://github.com/user-attachments/assets/46ae5687-0d58-461a-b128-7e297c9cc928)
+
 **barh0m1977/barh0m1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
