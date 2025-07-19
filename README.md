@@ -1,6 +1,8 @@
 ## Hi Im Ibrahim Lubbad || Android Developer 👋
 
-![developer](https://github.com/user-attachments/assets/46ae5687-0d58-461a-b128-7e297c9cc928)
+
+<img src="https://github.com/user-attachments/assets/46ae5687-0d58-461a-b128-7e297c9cc928" width="500" height="500" alt="Image" />
+
 
 **barh0m1977/barh0m1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
