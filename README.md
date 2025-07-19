@@ -1,6 +1,12 @@
 ## Hi  <img src="https://github.com/user-attachments/assets/807a9819-4886-4f0c-95cc-5352f0c11bcc" width="30" height="30" alt="Image" />, Im Ibrahim Lubbad || Indexer
+<img src="https://github.com/user-attachments/assets/37e2d437-62a5-4e9b-9822-dc8034a7ba8d" alt="Image" />
 
+I'm a passionate Android developer and software enthusiast from Palestine 🇵🇸. I enjoy building clean, modern, and user-focused mobile apps using Kotlin and Jetpack Compose.
 
+## 💼 What I Do
+- 🔧 Android App Development (Jetpack Compose, MVVM)
+- 🧠 Clean Architecture & Firebase Integration
+- 🎨 UI/UX with Material Design & Animations
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indexer.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lubbadibrahim0@gmail.com) 
 
