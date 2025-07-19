@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ad1c2ed2-a854-426e-9d81-998b2f3e35a9" width="800" height="500" alt="Image" />
+<img src="https://github.com/user-attachments/assets/ad1c2ed2-a854-426e-9d81-998b2f3e35a9" width="500" height="500" alt="Image" />
 
 ## Hi Im Ibrahim Lubbad || Android Developer 👋
 
